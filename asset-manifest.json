@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ramngithub.github.io/csb-hutouy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ramngithub.github.io/csb-hutouy/static/js/main.d64a1476.chunk.js",
+    "main.js.map": "https://ramngithub.github.io/csb-hutouy/static/js/main.d64a1476.chunk.js.map",
+    "runtime-main.js": "https://ramngithub.github.io/csb-hutouy/static/js/runtime-main.1dd1cb1a.js",
+    "runtime-main.js.map": "https://ramngithub.github.io/csb-hutouy/static/js/runtime-main.1dd1cb1a.js.map",
+    "static/js/2.dde9be5b.chunk.js": "https://ramngithub.github.io/csb-hutouy/static/js/2.dde9be5b.chunk.js",
+    "static/js/2.dde9be5b.chunk.js.map": "https://ramngithub.github.io/csb-hutouy/static/js/2.dde9be5b.chunk.js.map",
+    "index.html": "https://ramngithub.github.io/csb-hutouy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ramngithub.github.io/csb-hutouy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.dde9be5b.chunk.js.LICENSE.txt": "https://ramngithub.github.io/csb-hutouy/static/js/2.dde9be5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd1cb1a.js",
+    "static/js/2.dde9be5b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d64a1476.chunk.js"
+  ]
+}
